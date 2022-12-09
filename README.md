@@ -1,5 +1,5 @@
-                                                                     TAREA4_CAP7-8
-                                                                    
+                                                         INFORME TAREA 4 
+                                                           
 Estudiante: Danny Guallpa
 
 Carrera: Mecatrónica
