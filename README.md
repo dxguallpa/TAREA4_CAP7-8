@@ -9,7 +9,7 @@ NRC: 10063
 Docente: Darwin Omar Alulema Flores
 
 
-### 1. OBJETIVO GENERAL
+## 1. OBJETIVO GENERAL
 
 - Estudiar y conocer los conceptos generales y especificos con respecto a los circuitos en serie-paralelo y los teoremas de circuitos y conversiones; obteniendo así una mejor comprensión de la teoría y la práctica estudiando y resolviendo problemas sugeridos en el libro de trabajo relacionados.
 
@@ -37,7 +37,7 @@ Docente: Darwin Omar Alulema Flores
 
 ## 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-## CAPITULO 7 
+### CAPITULO 7 
 
 - CIRCUITOS EN SERIE-PARALELO:
 
@@ -315,7 +315,7 @@ Por tanto, la falla más probable es una resistencia abierta de 12kΩ, haciendo
 
 ![image](https://user-images.githubusercontent.com/105565670/175980906-0fc08dc8-82bb-4d0b-9de1-c7a243037f20.png)
 
-## CAPITULO 8
+### CAPITULO 8
 
 - Conversiones Delta a Y y Y a Delta
 
