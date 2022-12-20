@@ -508,6 +508,8 @@ Para encontrar las demás corrientes, se calculan en base al circuito original
 
 ## 5. VIDEO
 
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EUrIr9Yp8iROqkJit1vt6jEBMlGXBhTXZVWCNfFRHIoX2g?e=GZjvWV
+
 ## 6. CONCLUSIONES
 
 - Los circuitos en serie-paralelo se caracterizan por tener sus elementos conectados en serie y paralelo que dependiendo la información que se requiera determinar, se lo puede realizar por medio del análisis de relación y datos que nos provee el circuito eléctrico.
